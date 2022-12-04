@@ -259,7 +259,7 @@ background-color: var(--accent-color
 .section-benefits {
     padding-top: 94px;
     padding-bottom: 94px;
-    background-color: var(--primery-bg-color);
+    /* background-color: var(--primery-bg-color); */
 }
 
 .benefits {
