@@ -494,9 +494,7 @@ p.project-category {
 
 
 .project-tittle {
-/* padding: 20px 24px; */
-/* margin-left: 24px;
-margin-bottom: 4px; */
+
 margin-bottom: 4px;
 color: var(--tittle-text-color);   
 font-size: 18px;
